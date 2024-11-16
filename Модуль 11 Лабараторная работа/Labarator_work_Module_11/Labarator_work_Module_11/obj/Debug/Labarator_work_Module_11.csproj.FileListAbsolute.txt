@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\bin\Debug\Labarator_work_Module_11.exe.config
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\bin\Debug\Labarator_work_Module_11.exe
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\bin\Debug\Labarator_work_Module_11.pdb
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\obj\Debug\Labarator_work_Module_11.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\obj\Debug\Labarator_work_Module_11.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\obj\Debug\Labarator_work_Module_11.exe
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11 Лабараторная работа\Labarator_work_Module_11\Labarator_work_Module_11\obj\Debug\Labarator_work_Module_11.pdb
